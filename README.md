@@ -1,7 +1,11 @@
-# AAE6102-Assignment2
-This is the repository for the assignment 2 in PolyU AAE 6102 course, including five tasks as below.
-Author: Baoshan Song
-NetID: 23093571R
+# Project name
+
+    This is a repository for AAE6102 assignment 2 (Satellite Navigation). 
+
+    Author: Baoshan Song.
+
+    NetID: 23093571R
+
 
 # Task 1
 
