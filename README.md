@@ -173,6 +173,8 @@ In this task, the mentioned classic weighted RAIM algorithm is applied to the op
 The result is illustrated in a Stanford chart. According to the result, all the PL is within AL, but the PE of some results is larger than PL. The possible reason is that we have not detected the outliers by Chi-Square test, which belongs to missed detection.&#x20;
 
 
+![stanford](https://github.com/user-attachments/assets/6a259411-96ef-43f9-89ec-044e130aed9f)
+
 
 # Task 4 LEO satellites
 
