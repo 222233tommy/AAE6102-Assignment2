@@ -184,10 +184,8 @@ The result is illustrated in a Stanford chart. According to the result, all the 
     Prompt: You are an expert in GNSS and LEO navigation. Write the pros and challenges in LEO satellites in 500-1000 words: e.g. pros: rapid geometric change, high signal power, free SOP, mega-constellation; challenges: complex signal structure, lack high precision ephemerides, receiver clock synchronization.
 
     Comment: 
-    (1) Correctness: most of the review from ChatGPT is constructive, 
-    (2) Exactness: the keyword smartphone is not mentioned all over the analysis and the methods designed for smartphones are not the latest.
-
-    Chatroom Link (if any): https://chatgpt.com/share/680efc0d-008c-8000-bc38-d1e5433d681f
+    At the beginning, GenAI just descrides much information in a mess. After input the prompt in details, the GenAI could provide according to my advice.
+    
 
 ## Opportunities and Challenges of Using LEO Communication Satellites for GNSS Navigation
 
@@ -263,10 +261,7 @@ A hybrid PNT approach—integrating LEO SOPs with GNSS, inertial systems, and te
     GNSS seismology
 
     Comment: 
-    (1) Correctness: most of the review from ChatGPT is constructive, 
-    (2) Exactness: the keyword smartphone is not mentioned all over the analysis and the methods designed for smartphones are not the latest.
-
-    Chatroom Link (if any): https://chatgpt.com/share/680efc0d-008c-8000-bc38-d1e5433d681f
+    Since I am not familiar with GNSS remote sensing, the GenAI indeed provide much information for me. It is a good start to learn from GenaI.
 
 # GNSS Reflectometry (GNSS-R): A New Paradigm in Remote Sensing
 
