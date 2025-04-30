@@ -121,7 +121,10 @@ Urban areas present significant challenges to GNSS positioning due to signal blo
 
 
 
-In the open-sky experiment, the positioning performance is shown as below.
+In the Urban experiment, the positioning performance is shown as below.
+
+![wls_pos2](https://github.com/222233tommy/AAE6102-Assignment2/blob/main/assignment2/spp_pos2.png)
+
 
 &#x20;
 
