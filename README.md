@@ -121,7 +121,7 @@ Urban areas present significant challenges to GNSS positioning due to signal blo
 
 
 
-In the Urban experiment, the positioning performance is shown as below.
+In the Urban experiment, the positioning performance is shown as below. It seems that the 3D root mean square error (RMSE) of two methods are the same. We guess that this is because we only have 4 satellites, so this will be a determined solution, not relevant to to the weighting. We will try to track more satellites and try it again in the future.
 
 | Methods                  | WLS w/o Skymask                                    | WLS w Skymask                               |
 | ------------------------------- | -------------------------------------------------- | ------------------------------------------- | 
