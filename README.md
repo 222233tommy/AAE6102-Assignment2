@@ -123,6 +123,10 @@ Urban areas present significant challenges to GNSS positioning due to signal blo
 
 In the Urban experiment, the positioning performance is shown as below.
 
+| Methods                  | WLS w/o Skymask                                    | WLS w Skymask                               |
+| ------------------------------- | -------------------------------------------------- | ------------------------------------------- | 
+| RMSE [m]                    | 208.59                                          | 208.59                             | 
+
 ![wls_pos2](https://github.com/222233tommy/AAE6102-Assignment2/blob/main/assignment2/spp_pos2.png)
 
 
